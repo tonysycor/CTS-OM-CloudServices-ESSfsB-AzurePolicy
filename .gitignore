@@ -1,1 +1,2 @@
-*.tfvars, tf_provider.tf
+*.tfvars
+ tf_provider.tf
